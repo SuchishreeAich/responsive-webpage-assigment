@@ -1,0 +1,110 @@
+
+header
+{
+    margin:0;
+    height:20vh;
+}
+
+.navbar 
+{
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: red;
+    color: black;
+    padding: 1% 0;
+    font-size: 1.0em;
+    border: 0;
+}
+
+.bg-info
+{
+    border-bottom: 2px solid coral;
+}
+
+.navbar-brand img 
+{
+    height: 15vh;
+    width: 15vw;
+    border-radius: 15px;
+}
+
+.navbar-nav 
+{
+    margin-right: 5vw;
+}
+
+.nav-link 
+{
+    color: blue !important;
+    font-family: ABeeZee;
+}
+
+.nav-item.active a.nav-link 
+{
+    color: blueviolet !important;
+    border-bottom: 1px solid green;
+}
+
+.nav-item a.nav-link:hover 
+{
+    color: chocolate !important;
+    border-bottom: 1px solid green;
+}
+
+.jumbotron-section 
+{
+    font-size: 1em;
+    font-family: ABeeZee;
+    color: royalblue;
+    background-image: url("../images/Background-Images-2.jpg");
+    background-size: cover;
+    height:55vh;
+}
+
+.product-section
+{
+    height:75vh;
+    background-color:khaki;
+}
+
+h2
+{
+    font-family: ABeeZee;
+    color: royalblue;
+}
+
+h5
+{
+    font-family: ABeeZee;
+    color: royalblue;
+}
+
+.row img
+{
+    height:30vh;
+    width:30vh;
+    border-radius: 15px;
+}
+
+.carousel-section
+{
+    height:50vh;
+}
+
+footer
+{
+    background-color: aquamarine;
+    color: blue !important;    
+    font-family: ABeeZee;        
+}
+
+footer a
+{
+    color:blue;
+    text-decoration: none;
+}
+
+.footer-section
+{
+    height:30vh;
+}
